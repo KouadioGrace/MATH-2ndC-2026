@@ -1,0 +1,16 @@
+# Test Maths 2nde C - 10 Mai 2026
+## Objectif : INP-HB 2029
+
+### Mes réponses
+1. x² - 4 = (x-2)(x+2) ✅
+2. 2x + 3 = 11 => x = 4 ✅
+3. Discriminant de x² - 3x + 2 : Δ = 1 ✅
+4. Solutions de x² - 5x + 6 = 0 : x1 = 2, x2 = 3
+5. Somme des racines de x² - 7x + 10 = 0 : 7
+
+### Mes erreurs à ne plus faire
+1. Dans la formule quadratique, -b devient -(-5) = +5. Faire attention au signe.
+2. Somme des racines = -b/a. Donc pour b = -7, la somme = -(-7)/1 = 7.
+
+### Score : 3/5
+Prochaine fois : 5/5. Je vise le 20/20.
